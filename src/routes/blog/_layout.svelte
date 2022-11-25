@@ -6,7 +6,7 @@
 </script>
 
 
-<div class="mt-8 mx-auto prose md:prose-lg lg:prose-xl ">
+<div class="mt-9 mx-auto py-10 prose md:prose-lg lg:prose-xl ">
     <h2>{title}</h2>
     <BlogDate {date}/>
     <slot />
